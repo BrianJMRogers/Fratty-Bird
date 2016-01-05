@@ -25,5 +25,5 @@ I was inspired by the popular Flappy Bird to create this game. There are a few m
 ---
 ## Future Plans
 1. In  the coming Spring 2016 semester I will be learning Swift. I hope in the future to release Fratty Bird to the app store.
-2. I plan on making it so that every time you play, different Greek letters and corresponding colors are on the house
+2. I plan on making it so that every time you play, different Greek letters and corresponding colors are on the house.
 3. The app will be free to download but will have purchasable content. The user will be able to pay a one-time fee and make a certain set of Greek letters and colors permanently available to them for use on every play.
