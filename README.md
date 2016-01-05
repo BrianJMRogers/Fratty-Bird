@@ -5,6 +5,7 @@
 ---
 ## About
 I was inspired by the popular Flappy Bird to create this game. There are a few main differences which I will highlight:
+
 1. *Movement:* Flappy Bird has only vertical movement. In contrast, I gave full movement control to the user.
 2. *Barriers:* In Flappy Bird, the user flies through gaps in the columns. Fratty Bird instead has barriers in these gaps that the user must shoot in order to clear.
 3. *Appearance:* Reskinned all elements for overall different look.
